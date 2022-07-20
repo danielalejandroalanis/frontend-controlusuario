@@ -1,0 +1,10 @@
+$backgroundLoadingColor: #ffffff;
+
+.loading-screen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 40rem;
+    background-color: $backgroundLoadingColor;
+}

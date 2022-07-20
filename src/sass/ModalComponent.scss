@@ -1,0 +1,13 @@
+$modalLight: #f1f1f1; 
+$modalDark: #121620;
+
+
+.modal-light {
+    background-color: $modalLight;
+    color: $modalDark;
+}
+
+.modal-dark {
+    background-color: $modalDark;
+    color: $modalLight;
+}
